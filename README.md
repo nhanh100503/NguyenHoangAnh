@@ -27,10 +27,23 @@
 
 # Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<img align="right" width="200" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nhanh100503/python)
-- [![CodeLearn](https://img.shields.io/badge/CodeLearn.io-blue) Python cơ bản](https://codelearn.io/share/d6d3cae1-f316-429d-9894-ed27d016e6b4) 
+- [![CodeLearn](https://img.shields.io/badge/CodeLearn.io-blue) Python cơ bản](https://codelearn.io/share/d6d3cae1-f316-429d-9894-ed27d016e6b4)
+
+## 🔖 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/nhanh100503/NghienCuuKhoaHoc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhanh100503&repo=NghienCuuKhoaHoc&theme=default" width="400" height="150" />
+  </a>
+  <a href="https://github.com/nhanh100503/todoapp-fastapi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhanh100503&repo=todoapp-fastapi&theme=default" width="400" height="150" />
+  </a>
+</p>
+
+
 
 ## Activities:
 
