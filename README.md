@@ -5,12 +5,12 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm an Information Systems major at [Can Tho University](https://ctu.edu.vn).
+> ✍ IT Student @ [Can Tho University](https://ctu.edu.vn) | Major: Information System<br> 
 
 <br />
 
 
-## Skills:
+## 💻 Skills:
 <p align="center">
   <img src="https://img.icons8.com/?id=13441&format=png&color=000000">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="43"/>
@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/?size=45&id=EPbEfEa7o8CB&format=png&color=000000">
 </p>
 
-# Certificates:
+## 🎓 Certificates 📜:
 
 <img align="right" width="200" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
@@ -45,7 +45,7 @@
 
 
 
-## Activities:
+## 📊 Activities:
 
 <table style="width:100%;">
   <tr>
