@@ -1,6 +1,6 @@
 <p>
   <img align="left" src="https://github.com/nhanh100503.png" width="60" />
-  <img align="right" src="images/NHA.jpg" width="60" />
+  <img align="right" src="images/NHA.jpg" width="50" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Nguyễn Hoàng Anh</h2>
