@@ -1,4 +1,6 @@
-<img align="left" width="64" src="https://github.com/nhanh100503.png" />
+<img align="right" width="50" src="images/NHA.jpg">
+<img align="left" width="50" src="https://github.com/nhanh100503.png" />
+
 
 <h2 align="center">Hi 👋, I'm Nguyễn Hoàng Anh</h2>
 <p align="center">
