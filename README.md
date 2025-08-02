@@ -1,11 +1,13 @@
-<img align="right" width="50" src="images/NHA.jpg">
-<img align="left" width="50" src="https://github.com/nhanh100503.png" />
-
+<p>
+  <img align="left" src="https://github.com/nhanh100503.png" width="60" />
+  <img align="right" src="images/NHA.jpg" width="60" />
+</p>
 
 <h2 align="center">Hi 👋, I'm Nguyễn Hoàng Anh</h2>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-</p>
+
+
+<h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+
 
 > ✍ IT Student @ [Can Tho University](https://ctu.edu.vn) | Major: Information System<br> 
 
