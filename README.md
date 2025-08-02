@@ -10,7 +10,7 @@
 
 
 > ✍ IT Student @ [Can Tho University](https://ctu.edu.vn) | Major: Information System<br> 
-
+> ✍ Experienced in backend development using FastAPI and Spring Boot, as well as deep learning with CNNs for image classification and retrieval. <br> 
 <br />
 
 
