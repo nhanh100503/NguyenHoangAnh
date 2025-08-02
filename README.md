@@ -13,7 +13,7 @@
 ## 💻 Skills:
 <p align="center">
   <img src="https://img.icons8.com/?id=13441&format=png&color=000000">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="43"/>
+  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="43"/>
   <img src="https://img.icons8.com/?&id=13679&format=png&color=000000">
   <img src="https://img.icons8.com/?size=45&id=90519&format=png&color=000000">
   <img src="https://img.icons8.com/?size=45&id=asWSSTBrDlTW&format=png&color=000000">
