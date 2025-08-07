@@ -9,7 +9,7 @@
 <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 
 
-> ✍ IT Student @ [Can Tho University](https://ctu.edu.vn) | Major: Information System<br> 
+> ✍ IT Student @ [Can Tho University](https://ctu.edu.vn) | Major: [Information System](https://fis.ctu.edu.vn/)<br> 
 > ✍ Experienced in backend development using FastAPI and Spring Boot, as well as deep learning with CNNs for image classification and retrieval. <br> 
 <br />
 
